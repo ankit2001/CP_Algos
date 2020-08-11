@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: alphacode","srcPath":"/Users/sanketwable/cp/dynamic_programming/alphacode.cpp","tests":[{"id":1595392656201,"input":"25114\n1111111111\n5366271110\n0","output":""}],"timeLimit":3000,"url":"/Users/sanketwable/cp/dynamic_programming/alphacode.cpp"}

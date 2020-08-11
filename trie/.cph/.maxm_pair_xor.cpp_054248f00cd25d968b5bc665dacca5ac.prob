@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: maxm_pair_xor","srcPath":"/Users/sanketwable/cp/trie/maxm_pair_xor.cpp","tests":[{"id":1596433054556,"input":"6\n3 10 5 25 2 8","output":""}],"timeLimit":3000,"url":"/Users/sanketwable/cp/trie/maxm_pair_xor.cpp"}

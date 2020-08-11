@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: count_prefix","srcPath":"/Users/sanketwable/cp/strings/kmp/count_prefix.cpp","tests":[{"id":1596427612708,"input":"7\nabababa","output":""}],"timeLimit":3000,"url":"/Users/sanketwable/cp/strings/kmp/count_prefix.cpp"}

@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: lexi_minimal_string","srcPath":"/Users/sanketwable/cp/dsu/lexi_minimal_string.cpp","tests":[{"id":1597050439467,"input":"abc\nxyz\nyzp","output":""}],"timeLimit":3000,"url":"/Users/sanketwable/cp/dsu/lexi_minimal_string.cpp"}

@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: still_maxi","srcPath":"/Users/sanketwable/cp/dsu/still_maxi.cpp","tests":[{"id":1597031729528,"input":"3\n1 2\n2 3\n1 2 3\n2\n1","output":""}],"timeLimit":3000,"url":"/Users/sanketwable/cp/dsu/still_maxi.cpp"}

@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: my_kmp","srcPath":"/Users/sanketwable/cp/strings/kmp/my_kmp.cpp","tests":[{"id":1596422845865,"input":"ababcab\nab","output":""}],"timeLimit":3000,"url":"/Users/sanketwable/cp/strings/kmp/my_kmp.cpp"}
