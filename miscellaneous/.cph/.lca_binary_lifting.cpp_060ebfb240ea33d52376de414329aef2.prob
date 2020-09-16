@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: lca_binary_lifting","srcPath":"/Users/sanketwable/CP_Algos/miscellaneous/lca_binary_lifting.cpp","tests":[{"id":1600172742379,"input":"8\n1 2\n1 3 \n1 4\n4 5\n5 6\n5 7\n3 8\n4 6","output":""}],"timeLimit":3000,"url":"/Users/sanketwable/CP_Algos/miscellaneous/lca_binary_lifting.cpp"}

@@ -15,8 +15,8 @@ int main() {
             int x, y, w;
             cin >> x >> y >> w;
             x--, y--;
-            adj[x].push_back({y, w});
-            adj[y].push_back({x, w});
+            adj[x].push_back({w, y});
+            adj[y].push_back({w, x});
         }
         bool vis[n];
         memset(vis, false, sizeof(vis));
@@ -35,10 +35,10 @@ int main() {
                 int dist = p.first, idx = p.second;
                 vis[p.second] = true;
                 for (auto x: adj[idx]) {
-                    if (!vis[x.first]) {
-                        if (d[x.first] > dist + x.second) {
-                            d[x.first] = dist + x.second;
-                            q.push({d[x.first], x.first});
+                    if (!vis[x.second]) {
+                        if (d[x.second] > dist + x.first) {
+                            d[x.second] = dist + x.first;
+                            q.push({d[x.second], x.second});
                         }
                     }
                 }

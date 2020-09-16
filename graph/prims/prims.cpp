@@ -26,10 +26,8 @@ int main() {
         while (!q.empty()) {
             pair<int, int> p = q.top();
             q.pop();
-            if (!vis[p.second]) {
-                vis[p.second] = true;
-                cost += p.first;
-            } 
+            vis[p.second] = true;
+            cost += p.first;
             for (auto x: adj[p.second]) {
                 if (!vis[x.second]) {
                     q.push(x);

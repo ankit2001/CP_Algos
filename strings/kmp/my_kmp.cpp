@@ -17,7 +17,7 @@ int main() {
             int border = 0;
             for (int i = 1; i < n; i++) {
                 while (border > 0 and s[i] != s[border]) {
-                    border = s[border - 1];
+                    border = ans[border - 1];
                 }
                 if (s[border] == s[i]) {
                     border++;

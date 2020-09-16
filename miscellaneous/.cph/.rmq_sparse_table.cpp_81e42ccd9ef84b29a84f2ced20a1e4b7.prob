@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: rmq_sparse_table","srcPath":"/Users/sanketwable/CP_Algos/miscellaneous/rmq_sparse_table.cpp","tests":[{"id":1600243223224,"input":"7\n4 5 6 7 3 1 2\n6 6","output":""}],"timeLimit":3000,"url":"/Users/sanketwable/CP_Algos/miscellaneous/rmq_sparse_table.cpp"}

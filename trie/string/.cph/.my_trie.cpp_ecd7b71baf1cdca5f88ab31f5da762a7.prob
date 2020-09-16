@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: my_trie","srcPath":"/Users/sanketwable/CP_Algos/trie/string/my_trie.cpp","tests":[{"id":1599808242692,"input":"10\n1 ankit\n1 sanchit\n1 rahul\n2 ankit\n2 ank\n3 ankit\n3 ankit\n3 an\n2 ankit\n2 sanchit\n","output":""}],"timeLimit":3000,"url":"/Users/sanketwable/CP_Algos/trie/string/my_trie.cpp"}

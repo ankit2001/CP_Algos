@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: kth_ancestor","srcPath":"/Users/sanketwable/CP_Algos/Advanced/kth_ancestor.cpp","tests":[{"id":1600163028497,"input":"8\n1 2\n1 3\n1 4\n4 5\n5 6\n5 7\n3 8\n6 1","output":""}],"timeLimit":3000,"url":"/Users/sanketwable/CP_Algos/Advanced/kth_ancestor.cpp"}
