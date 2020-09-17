@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: square_root_decomposition","srcPath":"/Users/sanketwable/CP_Algos/miscellaneous/square_root_decomposition.cpp","tests":[{"id":1600354867806,"input":"9\n1 4 6 9 2 0 0 2 9","output":""}],"timeLimit":3000,"url":"/Users/sanketwable/CP_Algos/miscellaneous/square_root_decomposition.cpp"}
